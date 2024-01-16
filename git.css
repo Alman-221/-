@@ -4,15 +4,19 @@
 body {
     margin: 0;
 }
-.git {
+.git, .git1 {
     width: 900px;
     height: 500px;
     margin: auto;
     padding: 20px;
     border-radius: 10px;
     background-color: black;
-    color: #fff;
+    color: #ff0000;
     display: flex;
     align-items: center;
     font-size: 30px;
+}
+.git1 {
+    background-color: aqua;
+    color: black;
 }
